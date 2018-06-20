@@ -1,7 +1,7 @@
-1. GEMS
-2. CREP
-3. SEQUENTIAL
+1. GEMS Three-Way
+2. CREP Three-Way
+3. SEQUENTIAL Three-Way
 4. CREP Two-Way
 5. SEQ Two-Way
-6. COMMON
+6. COMMON (Required for all the Algorithms)
 These folders have the code for each algorithm
