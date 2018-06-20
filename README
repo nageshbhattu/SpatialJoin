@@ -1,7 +1,7 @@
-1. GEMS Three-Way
-2. CREP Three-Way
-3. SEQUENTIAL Three-Way
-4. CREP Two-Way
-5. SEQ Two-Way
-6. COMMON (Required for all the Algorithms)
-These folders have the code for each algorithm
+1. GEMS Three-Way -> 4 Relations
+2. CREP Three-Way -> 4 Relations
+3. SEQUENTIAL Three-Way -> 4 Relations
+4. CREP Two-Way -> 3 Relations
+5. SEQ Two-Way -> 3 Relations
+6. COMMON (Contains common class files to all the above Algorithms)
+1,2,3,4,5 folders contains the code.
