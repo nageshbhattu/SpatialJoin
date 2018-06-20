@@ -1,1 +1,2 @@
-
+Sequential Join
+AB Join -> JoinOutput1 -> JoinOutput1 + C -> Joinoutput2 -> Joinoutput2 + D -> FinalOutput
